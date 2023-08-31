@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá, bem vindo! Eu sou a Ana Caroline👋 <h4>🌱Estudante de Sistemas de Informação</h4></br>
 
-<!--
-**AnaCarolineMDM/AnaCarolineMDM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>Contatos:</h4>
 
-Here are some ideas to get you started:
+[![Sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-caroline-mdm/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ana Caroline GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaCarolineMDM&show_icons=true&theme=cobalt)
+
+<div style="display: inline_block"></br>
+    <h4>Tecnologias que utilizo durante o meu dia:</h4>
+    <img olign="center" alt="html15" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+    <img olign="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+    <img olign="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</div>
