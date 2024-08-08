@@ -7,7 +7,7 @@
 ![Ana Caroline GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaCarolineMDM&show_icons=true&theme=cobalt)
 
  <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=synthwave"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=highcontrast"/>
 </div>
     
 
