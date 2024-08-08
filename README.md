@@ -6,6 +6,14 @@
 
 ![Ana Caroline GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaCarolineMDM&show_icons=true&theme=cobalt)
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+<br>
+
 <div style="display: inline_block"></br>
     <h4>Tecnologias que utilizo durante o meu dia:</h4>
     <img olign="center" alt="html15" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
